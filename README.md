@@ -1,8 +1,6 @@
-<img align="right" width="380px" src="https://github-readme-stats.vercel.app/api?username=jasonlamv-t&show_icons=true&theme=algolia&hide_border=true&hide=stars&count_private=true" />
-
 <h2 class="flex"><img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />Hi, I'm Jason Lam!</h2>
 
-👇🏼 Read this code to know about me!
+👇🏼 Read this code to know about me 👇🏼  
 
 ```typescript
 const JasonLamv-t: UniquePerson = new Developer({
@@ -31,3 +29,5 @@ const JasonLamv-t: UniquePerson = new Developer({
   ],
 })
 ```
+
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonlamv-t&theme=algolia&hide_border=true&hide=javascript&langs_count=3" /><img src="https://github-readme-stats.vercel.app/api?username=jasonlamv-t&show_icons=true&theme=algolia&hide_border=true&count_private=true&line_height=27" /></p>
