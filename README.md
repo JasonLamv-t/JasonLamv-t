@@ -7,11 +7,13 @@ const JasonLamv-t: UniquePerson = new Developer({
   name: 'Jason Lam' | '林家祥' | 'Lin Jiaxiang'],
   pronouns: 'He' | 'Him',
   speaks: 'Mandarin' | 'English' | 'Cantonese' | 'Chaoshan dialect',
+  status: 'Looking for a position for full-stack development or cloud-about, based in Guangdong or remote.'
   roles: [
     {
       title: 'Full Stack Engineer',
       at: 'ZitySpace',
       start: '2021-09-15',
+      end: '2022-07-08'
       mentor: {
         name: 'Zheng Rui',
         link: 'http://zhengrui.github.io/',
