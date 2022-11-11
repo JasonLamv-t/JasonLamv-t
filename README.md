@@ -13,7 +13,7 @@ const JasonLamv-t: UniquePerson = new Developer({
       title: 'Full Stack Engineer',
       at: 'ZitySpace',
       start: '2021-09-15',
-      end: '2022-07-08'
+      end: '2022-07-08',
       mentor: {
         name: 'Zheng Rui',
         link: 'http://zhengrui.github.io/',
