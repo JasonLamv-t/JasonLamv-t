@@ -10,23 +10,14 @@ const JasonLamv-t: UniquePerson = new Developer({
   status: 'Looking for a position for full-stack development or cloud-about, based in Guangdong or remote.'
   roles: [
     {
-      title: 'Full Stack Engineer',
-      at: 'ZitySpace',
-      start: '2021-09-15',
-      end: '2022-07-08',
-      mentor: {
-        name: 'Zheng Rui',
-        link: 'http://zhengrui.github.io/',
-      },
+      title: 'NodeJS Engineer',
+      at: 'CycleTech',
+      start: '2023-04-01',
     },
     {
       title: 'Contributor',
-      at: 'Serverless-Devs',
-      start: '2021-07-01',
-      mentor: {
-        name: 'Zhang Qianfeng',
-        link: 'https://github.com/git-qfzhang',
-      },
+      at: 'MDN-localazation',
+      for: 'zh-CN'
     },
   ],
 })
