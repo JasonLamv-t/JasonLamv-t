@@ -4,7 +4,7 @@
 
 ```typescript
 const JasonLamv-t: UniquePerson = new Developer({
-  name: 'Jason Lam' | '林家祥' | 'Lin Jiaxiang'],
+  name: 'Jason Lam' | '林家祥' | 'Lin Jiaxiang',
   pronouns: 'He' | 'Him',
   speaks: 'Mandarin' | 'English' | 'Cantonese' | 'Chaoshan dialect',
   status: 'Looking for a position for full-stack development or cloud-about, based in Guangdong or remote.'
