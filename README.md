@@ -16,8 +16,8 @@ const JasonLamv-t: UniquePerson = new Developer({
     },
     {
       title: 'Contributor',
-      at: 'MDN-localazation',
-      for: 'zh-CN'
+      at: 'MDN',
+      for: 'Simplified Chinese localization of MDN documents'
     },
   ],
 })
