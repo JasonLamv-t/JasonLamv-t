@@ -3,7 +3,7 @@
 👇🏼 Read this code to know about me 👇🏼  
 
 ```typescript
-const JasonLamv-t: UniquePerson = new Developer({
+const JasonLamv-t: UniquePerson = new FullStackDeveloper({
   name: 'Jason Lam' | '林家祥' | 'Lin Jiaxiang',
   pronouns: 'He' | 'Him',
   speaks: 'Mandarin' | 'English' | 'Cantonese' | 'Chaoshan dialect',
