@@ -3,23 +3,42 @@
 👇🏼 Read this code to know about me 👇🏼  
 
 ```typescript
-const JasonLamv-t: UniquePerson = new FullStackDeveloper({
-  name: 'Jason Lam' | '林家祥' | 'Lin Jiaxiang',
-  pronouns: 'He' | 'Him',
-  speaks: 'Mandarin' | 'English' | 'Cantonese' | 'Chaoshan dialect',
-  status: 'Looking for a position for full-stack development or cloud-about, based in Guangdong or remote.'
+const JasonLamv-t: UniquePerson = new Developer({
+  name: 'Jason Lam' || '林家祥' || 'Lin Jiaxiang',
+  pronouns: 'He' || 'Him',
+  speaks: 'Mandarin' || 'English' || 'Cantonese' || 'Chaoshan dialect',
+  radioCallSign: 'BD7PMG',
   roles: [
     {
-      title: 'NodeJS Engineer',
-      at: 'CycleTech',
-      start: '2023-04-01',
+      title: 'NodeJS Full Stack Engineer',
+      at: 'CycleTech | Dispatched to Colourlife Group.',
+      since: '2023-04-01',
     },
     {
       title: 'Contributor',
       at: 'MDN',
-      for: 'Simplified Chinese localization of MDN documents'
-    },
+      since: '2023-03',
+    }
   ],
+  experiences: [
+    {
+      title: 'Full Stack Engineer',
+      at: 'ZitySpace',
+      duration: '2021-09-15 - 2023-07-08',
+      mentor: {
+        name: 'Zheng Rui',
+        link: 'http://zhengrui.github.io/',
+      },
+    },
+    {
+      title: 'Contributor',
+      at: 'Serverless-Devs',
+      mentor: {
+        name: 'Zhang Qianfeng',
+        link: 'https://github.com/git-qfzhang',
+      },
+    }
+  ]
 })
 ```
 
