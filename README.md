@@ -10,17 +10,25 @@ const JasonLamv-t: UniquePerson = new Developer({
   radioCallSign: 'BD7PMG',
   roles: [
     {
-      title: 'NodeJS Full Stack Engineer',
-      at: 'CycleTech | Dispatched to Colourlife Group.',
-      since: '2023-04-01',
+      title: 'Junior Backend Engineer',
+      at: 'Grantit',
+      since: '2024-04-15',
     },
     {
-      title: 'Member',
+      title: 'Localization Team Member',
       at: 'MDN',
       since: '2023-03',
     }
   ],
   experiences: [
+    {
+      title: 'NodeJS Full Stack Engineer',
+      at: 'CycleTech | Dispatched to Colourlife Group.',
+      duration: { startAt: '2023-04-01', endAt: '2024-04-12' },
+      mentor: {
+        name: 'Lin Shaohua',
+      }
+    },
     {
       title: 'Full Stack Engineer',
       at: 'ZitySpace',
