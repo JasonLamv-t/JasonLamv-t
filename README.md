@@ -13,6 +13,10 @@ const JasonLamv-t: UniquePerson = new Developer({
       title: 'Junior Backend Engineer',
       at: 'Grantit',
       since: '2024-04-15',
+      mentor: {
+        name: 'Kevin Liang',
+        link: 'https://www.linkedin.com/in/kevin-liang-111771a5/',
+      }
     },
     {
       title: 'Localization Team Member',
@@ -27,6 +31,7 @@ const JasonLamv-t: UniquePerson = new Developer({
       duration: { startAt: '2023-04-01', endAt: '2024-04-12' },
       mentor: {
         name: 'Lin Shaohua',
+        link: 'https://github.com/laobei',
       }
     },
     {
