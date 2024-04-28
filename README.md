@@ -15,7 +15,7 @@ const JasonLamv-t: UniquePerson = new Developer({
       since: '2024-04-15',
       mentor: {
         name: 'Kevin Liang',
-        link: '@llkevin1214',
+        link: 'https://github.com/llkevin1214',
       }
     },
     {
