@@ -1,6 +1,6 @@
 <h2 class="flex"><img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32" />Hi, I'm Jason Lam!</h2>
 
-👇🏼 Read this code to know about me 👇🏼  
+👇🏼 Read this code to get to know me 👇🏼  
 
 ```typescript
 const JasonLamv-t: UniquePerson = new Developer({
@@ -10,9 +10,9 @@ const JasonLamv-t: UniquePerson = new Developer({
   radioCallSign: 'BD7PMG',
   roles: [
     {
-      title: 'Junior Backend Engineer',
+      title: 'Backend Engineer',
       at: 'Grantit',
-      since: '2024-04-15',
+      duration: { since: '2024-04-15', to: null },
       mentor: {
         name: 'Kevin Liang',
         link: 'https://github.com/llkevin1214',
@@ -21,14 +21,14 @@ const JasonLamv-t: UniquePerson = new Developer({
     {
       title: 'Localization Team Member',
       at: 'MDN',
-      since: '2023-03',
+      duration: { since: '2023-03', to: null },
     }
   ],
   experiences: [
     {
-      title: 'NodeJS Full Stack Engineer',
+      title: 'Node.js Full Stack Engineer',
       at: 'CycleTech | Dispatched to Colourlife Group.',
-      duration: { startAt: '2023-04-01', endAt: '2024-04-12' },
+      duration: { since: '2023-04-01', to: '2024-04-12' },
       mentor: {
         name: 'Lin Shaohua',
         link: 'https://github.com/laobei',
@@ -37,15 +37,16 @@ const JasonLamv-t: UniquePerson = new Developer({
     {
       title: 'Full Stack Engineer',
       at: 'ZitySpace',
-      duration: '2021-09-15 - 2023-07-08',
+      duration: { since: '2021-09-15', to: '2023-07-08' },
       mentor: {
         name: 'Zheng Rui',
-        link: 'http://zhengrui.github.io/',
+        link: 'http://zhengrui.github.io',
       },
     },
     {
       title: 'Contributor',
       at: 'Serverless-Devs',
+      duration: { since: '2021-06-01', to: '2023-09-30' },
       mentor: {
         name: 'Zhang Qianfeng',
         link: 'https://github.com/git-qfzhang',
